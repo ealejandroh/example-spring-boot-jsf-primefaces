@@ -1,0 +1,2 @@
+# example-spring-boot-jsf-primefaces
+An example spring boot application utilizing JSF 2.2 and PrimeFaces 5. Recently I was tried to setup a simple lightweight PrimeFaces application. Many of the examples I found online required more than the barebones setup or they used older versions of Spring Boot/JSF. Some required web.xml or faces-config.xml and I was looking for more of  a javaconfig based application. After merging several examples I tried removing components and updating configs until I came up with this.
